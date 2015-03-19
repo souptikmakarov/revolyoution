@@ -1,0 +1,96 @@
+	<section id="container">
+			<div id="content">
+				<div class="slider">
+					<div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:900px;margin:0px auto 56px;">
+				        <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+				            <ul class="amazingslider-slides" style="display:none;">
+				                <li><img src="images/1508181_357479297771595_4536830076352441679_n.jpg" alt="1508181_357479297771595_4536830076352441679_n" />
+				                </li>
+				                <li><img src="images/10830688_350699315116260_8339805075075388045_o (1).jpg" alt="10830688_350699315116260_8339805075075388045_o (1)" />
+				                </li>
+				                <li><img src="images/10842147_360626757456849_6777877191199897206_o.jpg" alt="10842147_360626757456849_6777877191199897206_o" />
+				                </li>
+				                <li><img src="images/10855130_365265190326339_6476918795149006428_o.jpg" alt="10855130_365265190326339_6476918795149006428_o" />
+				                </li>
+				                <li><img src="images/10997613_365266386992886_2484754613911475515_o.jpg" alt="10997613_365266386992886_2484754613911475515_o" />
+				                </li>
+				                <li><img src="images/10999635_365265946992930_7284516660010412574_o.jpg" alt="10999635_365265946992930_7284516660010412574_o" />
+				                </li>
+				                <li><img src="images/11008498_365266226992902_8841455164574215247_o.jpg" alt="11008498_365266226992902_8841455164574215247_o" />
+				                </li>
+				                <li><img src="images/11020246_365266636992861_1902336000420933933_o.jpg" alt="11020246_365266636992861_1902336000420933933_o" />
+				                </li>
+				                <li><img src="images/11021343_365267476992777_5010951682561456047_o.jpg" alt="11021343_365267476992777_5010951682561456047_o" />
+				                </li>
+				                <li><img src="images/11022583_365267256992799_1234004792722438691_o.jpg" alt="11022583_365267256992799_1234004792722438691_o" />
+				                </li>
+				                <li><img src="images/11025278_365266890326169_4396093998104422778_o.jpg" alt="11025278_365266890326169_4396093998104422778_o" />
+				                </li>
+				                <li><img src="images/11029522_365265493659642_2554450918409381964_o.jpg" alt="11029522_365265493659642_2554450918409381964_o" />
+				                </li>
+				                <li><img src="images/11034394_365266590326199_8434159426106941936_o.jpg" alt="11034394_365266590326199_8434159426106941936_o" />
+				                </li>
+				                <li><img src="images/11050215_365267383659453_4387698205299786532_o.jpg" alt="11050215_365267383659453_4387698205299786532_o" />
+				                </li>
+				                <li><img src="images/11050664_365267473659444_5529874611694464539_o.jpg" alt="11050664_365267473659444_5529874611694464539_o" />
+				                </li>
+				                <li><img src="images/11050798_365265526992972_3754126678249251920_o.jpg" alt="11050798_365265526992972_3754126678249251920_o" />
+				                </li>
+				            </ul>
+				            <ul class="amazingslider-thumbnails" style="display:none;">
+				                <li><img src="images/1508181_357479297771595_4536830076352441679_n-tn.jpg" alt="1508181_357479297771595_4536830076352441679_n" /></li>
+				                <li><img src="images/10830688_350699315116260_8339805075075388045_o (1)-tn.jpg" alt="10830688_350699315116260_8339805075075388045_o (1)" /></li>
+				                <li><img src="images/10842147_360626757456849_6777877191199897206_o-tn.jpg" alt="10842147_360626757456849_6777877191199897206_o" /></li>
+				                <li><img src="images/10855130_365265190326339_6476918795149006428_o-tn.jpg" alt="10855130_365265190326339_6476918795149006428_o" /></li>
+				                <li><img src="images/10997613_365266386992886_2484754613911475515_o-tn.jpg" alt="10997613_365266386992886_2484754613911475515_o" /></li>
+				                <li><img src="images/10999635_365265946992930_7284516660010412574_o-tn.jpg" alt="10999635_365265946992930_7284516660010412574_o" /></li>
+				                <li><img src="images/11008498_365266226992902_8841455164574215247_o-tn.jpg" alt="11008498_365266226992902_8841455164574215247_o" /></li>
+				                <li><img src="images/11020246_365266636992861_1902336000420933933_o-tn.jpg" alt="11020246_365266636992861_1902336000420933933_o" /></li>
+				                <li><img src="images/11021343_365267476992777_5010951682561456047_o-tn.jpg" alt="11021343_365267476992777_5010951682561456047_o" /></li>
+				                <li><img src="images/11022583_365267256992799_1234004792722438691_o-tn.jpg" alt="11022583_365267256992799_1234004792722438691_o" /></li>
+				                <li><img src="images/11025278_365266890326169_4396093998104422778_o-tn.jpg" alt="11025278_365266890326169_4396093998104422778_o" /></li>
+				                <li><img src="images/11029522_365265493659642_2554450918409381964_o-tn.jpg" alt="11029522_365265493659642_2554450918409381964_o" /></li>
+				                <li><img src="images/11034394_365266590326199_8434159426106941936_o-tn.jpg" alt="11034394_365266590326199_8434159426106941936_o" /></li>
+				                <li><img src="images/11050215_365267383659453_4387698205299786532_o-tn.jpg" alt="11050215_365267383659453_4387698205299786532_o" /></li>
+				                <li><img src="images/11050664_365267473659444_5529874611694464539_o-tn.jpg" alt="11050664_365267473659444_5529874611694464539_o" /></li>
+				                <li><img src="images/11050798_365265526992972_3754126678249251920_o-tn.jpg" alt="11050798_365265526992972_3754126678249251920_o" /></li>
+				            </ul>
+				        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="Responsive JavaScript Slideshow">Responsive JavaScript Slideshow</a></div>
+				        </div>
+				    </div>
+				</div>
+				<div class="information">
+					<h1>Welcome to <span>&nbsp;REVOL"YOU"TION</span></h1>
+					<p class="information">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				</div>
+			</div>
+			<div id="facts">
+				<h2>Some Facts</h2>
+				<p>Men are more than twice as likely as women to hold salaried jobs. As such in 2013 women only earned 62% of a men's salary for the same work..!!</p>
+				<p>Around 53% of the girls in the age group of 5 to 9 years are illiterate..!!!</p>
+				<p>46% of children under 5 are malnourished..!!</p>
+				<p>Every sixth girl child's death is due to gender discrimination..3 lakh more girls than boys die every year..!</p>
+				<p>The World Food Programme says, “The poor are hungry and their hunger traps them in poverty.” </p>
+				<p>Hunger is the number 1 cause of death in the world, 
+				killing more than HIV/AIDS, malaria, and tuberculosis combined.</p>
+				<p>There are 20 million street children in India..!!</p>
+				<p>Over 59 million children in India have no access to school..!!</p>
+				<p>Nearly half(47%) of Indian girls are married before the legal age of 18. Approx 15% are married before turning 15..!!</p>
+				<p>Nearly half(48%) of Indian children under 5 years old are stunted due to chronic undernutrition. India accounts for more than 3 out of every 10 stunted children in the world..!!</p>
+				<p>According to the latest report from UNICEF, India has around 638 million people who do not have access to toilets,the highest in the world..!!</p>
+				<p>On an average women receive only 1.8 years of schooling in India..!</p>
+				<p>According to the World Bank, more than 400 million Indians- one third of the population- live in poverty.</p>
+				<p>There are 13 million working children across India..!</p>
+				<p>India ranked 65 in Global Hunger Index Report 2012 released by International Food Research Institute..!</p>
+				<p>On an average,there are less than three teachers per primary school. They have to manage classes from I to V every day..!</p>
+				<p>There are 13 million working children across India.!</p>
+				<p>India spends only 3.3% of it's GDP on education as compared to an average 5.8% in developed countries..!</p>
+				<p>India has one of the lowest higher education enrollment ratio of 11%. In the US, it is 83%.!!</p>
+			</div>
+		</section>
+		<footer>Copyright Revol"you"tion.com</footer>

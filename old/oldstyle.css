@@ -1,0 +1,128 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+header{
+	height:100px;
+	width:100%;
+	position:fixed;
+	background-color:#0D0D26;
+	z-index:100;
+	line-height:100px;
+}
+.sitename{
+	color:white;
+	font-size:40px;
+	font-weight:bold;
+	margin-left: 30px;
+}
+#menu{
+	list-style-type:none;
+	float:right;
+	margin-right:70px;
+}
+#menu li{
+	line-height:50px;
+	float:left;
+	position: relative;
+	-webkit-transition:all .25s linear;
+	-moz-transition:all .25s linear;
+	-ms-transition:all .25s linear;
+	-o-transition:all .25s linear;
+	transition:all .25s linear;
+}
+#menu > li{
+	margin: 0 1px;
+}
+#menu li.one:hover,#menu li.one.active{
+
+	border-bottom: 3px solid #B22222;
+	color: #B22222;
+}
+#menu li.one:hover > a,#menu li.one.active > a{
+
+	border-bottom: 3px solid #B22222;
+	color: #B22222;
+}
+#menu li.two:hover,#menu li.two.active{
+
+	border-bottom: 3px solid #9400D3;
+	color: #9400D3;
+}
+#menu li.two:hover > a,#menu li.two.active > a{
+
+	border-bottom: 3px solid #9400D3;
+	color: #9400D3;
+}
+#menu li.three:hover,#menu li.three.active{
+
+	border-bottom: 3px solid #DAA520;
+	color: #DAA520;
+}
+#menu li.three:hover > a,#menu li.three.active > a{
+
+	border-bottom: 3px solid #DAA520;
+	color: #DAA520;
+}
+#menu li.four:hover,#menu li.four.active{
+
+	border-bottom: 3px solid #32CD32;
+	color: #32CD32;
+}
+#menu li.four:hover > a,#menu li.four.active > a{
+
+	border-bottom: 3px solid #32CD32;
+	color: #32CD32;
+}
+#menu li a{
+	text-decoration:none;
+	display:block;
+	width: 100px;
+    text-align: center;
+    padding: 4px;
+	color:#FFFACD;
+}
+#content{
+
+	z-index: 50;
+	padding-top: 105px;
+}
+.information{
+
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+	font-size: 18px;
+	clear: both;
+	width: 95%;
+}
+.information > h1{
+
+	margin-left: 20px;
+}
+.information > h1> span{
+
+	color: #FF7F50;
+	font-weight: bold;
+	font-family: 'Courgette', cursive;
+}
+.slider{
+
+	float: left;
+	width: 100%;
+}
+#container{
+
+	width: 100%;
+}
+#content{
+
+	width: 80%;
+	float: left;
+}
+#facts{
+
+	width: 20%;
+	float: left;
+	padding-top: 100px;
+}
